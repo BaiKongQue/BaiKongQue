@@ -3,7 +3,7 @@
 ### 🔎 Who am I
 My name is Lee Perkins, I am a full stack developer wanting to move into the field of cyber security! I feel comfortable using things like Angular, Mysql, and PHP to develop websites. I have learned many things like Big Data Analysis or AI but I really enjoy doing Web Development.
 
-### 🔭 I’m currently working on
+### 🔨 I’m currently working on
 - Building local and public websites for companies
 - Discord D&D bot
 
