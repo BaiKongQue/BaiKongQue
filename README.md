@@ -8,7 +8,8 @@ My name is Lee Perkins, I am a full stack developer wanting to move into the fie
 - Discord D&D bot
 
 ### 🌱 I’m currently learning
-`Nodejs` with the libraries Discordjs, Express, and Mysql
+- `Nodejs` with Express, and Mysql
+- `C#` with Discord.Net
 
 ### 📚 Languages I know
 `Typescript` `C++` `PHP` `HTML/CSS` `SCSS` `Javascript` `Python` `C#` `Haskell` `Java` `Assembly` `Oz`
