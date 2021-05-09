@@ -5,14 +5,15 @@ My name is Lee Perkins, I am a full stack developer wanting to move into the fie
 
 ### 🏗️ I’m currently working on
 - Building local and public websites for companies
-- Discord D&D bot
+- Making a MMORPG with friends
+- Taking on CTF Challenges
 
 ### 🌱 I’m currently learning
-- Discord.Net with `C#`
-- SDL with `C++`
+- Phaser with `ts`
+- Different vulnerabilities and exploitations
 
 ### 📚 Languages I know
-`Typescript` `C++` `PHP` `HTML/CSS` `SCSS` `Javascript` `Python` `C#` `Haskell` `Java` `Assembly` `Oz`
+`Typescript` `C++` `PHP` `MySQL` `HTML/CSS` `SCSS` `Javascript` `Python` `C#` `Haskell` `Java` `Assembly` `Oz`
 
 ### ⚡ Fun fact:
 - I love shooting Archery 🏹
