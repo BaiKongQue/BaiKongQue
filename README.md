@@ -1,7 +1,7 @@
 <img src="https://www.videogamesblogger.com/wp-content/uploads/2009/06/final-fantasy-xiv-online-wallpaper.jpg" alt="Final Fantasy XIV Banner"/>
 
 ### 🔎 Who am I
-My name is Lee Perkins, I am a full stack developer wanting to move into the field of cyber security! I feel comfortable using things like Angular, Mysql, and PHP to develop websites. I have learned many things like Big Data Analysis or AI, but I really enjoy doing Web Development the most. Besides web development, I have also enjoyed doing game development too. I like thinking about game mechanics and how a game works under the hood. Whenever I am programming I aim to develop clean, neat, and optimized code for every system. Keeping code orginized helps not only me, but also others, seamlessly understand what function and tools have been already developed and can be used.
+My name is Lee Perkins, I am a full stack developer wanting to move into the field of cyber security! I feel comfortable using things like Angular, Mysql, and PHP to develop websites. I have learned many things like Big Data Analysis or AI, but I really enjoy doing Web Development the most. Besides web development, I have also enjoyed doing game development too. I like thinking about game mechanics and how a game works under the hood. Whenever I am programming I aim to develop clean, neat, and optimized code for every system. Keeping code orginized helps not only me, but also others, seamlessly understand which functions and tools can be utilized.
 
 ### 🏗️ I’m currently working on
 - Building local and public websites for companies
