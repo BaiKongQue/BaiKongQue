@@ -9,7 +9,7 @@ My name is Lee Perkins, I am a full stack developer wanting to move into the fie
 - Taking on CTF Challenges
 
 ### 🌱 I’m currently learning
-- Phaser with `ts`
+- Gamemaker
 - Different vulnerabilities and exploitations
 
 ### 📚 Languages I know
