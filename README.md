@@ -12,7 +12,7 @@ My name is Lee Perkins, I am a full stack developer wanting to move into the fie
 - Natual Language Processing
 
 ### 📚 Languages I know
-`Typescript` `C++` `PHP` `MySQL` `HTML/CSS` `SCSS` `Javascript` `Python` `R` `C#` `Haskell` `Dart` `Java` `Assembly` `Oz`
+`Typescript` `C++` `PHP` `MySQL` `HTML/CSS` `SCSS` `Javascript` `Python` `R` `C#` `Haskell` `Go` `Dart` `Java` `Assembly` `Oz`
 
 ### ⚡ Fun fact:
 - I love shooting Archery 🏹
