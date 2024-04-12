@@ -1,18 +1,10 @@
 <img src="https://www.videogamesblogger.com/wp-content/uploads/2009/06/final-fantasy-xiv-online-wallpaper.jpg" alt="Final Fantasy XIV Banner"/>
 
 ### 🔎 Who am I
-My name is Lee Perkins, I am a full stack developer wanting to move into the field of Data Science! I feel comfortable using things like Angular, Mysql, and PHP to develop websites. I have learned many things like Big Data Analysis or AI, but I really enjoy doing Web Development the most. Besides web development, I have also enjoyed doing game development too. I like thinking about game mechanics and how a game works under the hood. Whenever I am programming I aim to develop clean, neat, and optimized code for every system. Keeping code orginized helps not only me, but also others, seamlessly understand which functions and tools can be utilized.
-
-### 🏗️ I’m currently working on
-- Developing websites for companies
-- Programming apps for companies
-
-### 🌱 I’m currently learning
-- Flutter
-- Natual Language Processing
+I am a passionate data science enthusiast with a knack for accelerating in machine learning. Proficient in statistical methods including logistical regression, time series, and panel data analysis. Skilled in machine learning, natural language processing, and computer vision. Dedicated to tackling complex challenges and solving problems with data-driven solutions.
 
 ### 📚 Languages I know
-`Typescript` `C++` `PHP` `MySQL` `HTML/CSS` `SCSS` `Javascript` `Python` `R` `C#` `Haskell` `Go` `Dart` `Java` `Assembly` `Oz`
+`C++` `Python` `R` `Typescript` `PHP` `MySQL` `HTML/CSS` `SCSS` `Javascript`  `C#` `Haskell` `Go` `Dart` `Java` `Assembly` `Oz`
 
 ### ⚡ Fun fact:
 - I love shooting Archery 🏹
