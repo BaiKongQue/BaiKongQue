@@ -1,7 +1,7 @@
 <img src="https://www.videogamesblogger.com/wp-content/uploads/2009/06/final-fantasy-xiv-online-wallpaper.jpg" alt="Final Fantasy XIV Banner"/>
 
 ### 🔎 Who am I
-I am a passionate data science enthusiast with a knack for accelerating in machine learning. Proficient in statistical methods including logistical regression, time series, and panel data analysis. Skilled in machine learning, natural language processing, and computer vision. Dedicated to tackling complex challenges and solving problems with data-driven solutions.
+I am a passionate data science enthusiast with a knack for accelerating in machine learning. Proficient in statistical methods including logistical regression, time series, and panel data analysis. Skilled in machine learning, natural language processing, and computer vision. Dedicated to tackling complex challenges and solving problems with data-driven solutions. Beyond data science, I have experience and knowledge in web development and software engineering.
 
 ### 📚 Languages I know
 `C++` `Python` `R` `Typescript` `PHP` `MySQL` `HTML/CSS` `SCSS` `Javascript`  `C#` `Haskell` `Go` `Dart` `Java` `Assembly` `Oz`
